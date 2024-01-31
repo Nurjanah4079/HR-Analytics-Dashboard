@@ -8,10 +8,18 @@
 
 <h1>HR Analytics Dashboard</h1>
 
-<img src="[link_to_executive_glance_image](https://drive.google.com/file/d/1dvwdt5tpg0OxYt7phun_4fV44nCPoczV/view?usp=sharing)" alt="Executive Glance">
-<img src="[link_to_attrition_analysis_image](https://drive.google.com/file/d/1g_xKBuKbAMAjP51Mn9jh9mmh8lzMmVF0/view?usp=sharing)" alt="Attrition Analysis">
-<img src="[link_to_salary_analysis_image](https://drive.google.com/file/d/1UEXKHS1KY3PcVO1B_-SA--vLi6-QMzzd/view?usp=sharing)" alt="Salary Analysis">
-<img src="[link_to_performance_analysis_image](https://drive.google.com/file/d/1E9QdwWVcbegX-OjRjWic3Ek46raPpU8I/view?usp=sharing)" alt="Performance Analysis">
+## Executive Glance
+![Executive Glance](https://github.com/Nurjanah4079/HR-Analytics-Dashboard/blob/main/Ds1.JPG)
+
+## Attrition Analysis
+![Attrition Analysis](https://github.com/Nurjanah4079/HR-Analytics-Dashboard/blob/main/Ds2.JPG)
+
+## Salary Analysis
+![Salary Analysis](https://github.com/Nurjanah4079/HR-Analytics-Dashboard/blob/main/Ds3.JPG)
+
+## Performance Analysis
+![Performance Analysis](https://github.com/Nurjanah4079/HR-Analytics-Dashboard/blob/main/Ds4.JPG)
+
 
 <p>This is the HR Analytics Dashboard project, which provides crucial insights into various aspects of human resources, including executive overview, attrition analysis, salary analysis, and performance analysis.</p>
 
