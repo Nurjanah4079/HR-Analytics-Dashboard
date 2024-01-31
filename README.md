@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HR Analytics Dashboard</title>
 </head>
 <body>
 
@@ -30,27 +29,9 @@
 <h2>Technology Used</h2>
 <ul>
     <li>Python</li>
-    <li>Pandas</li>
-    <li>Matplotlib</li>
-    <li>Seaborn</li>
-    <li>Flask</li>
-    <li>HTML/CSS</li>
-    <li>JavaScript</li>
+    <li>Power BI</li>
+    <li>Excel</li>
 </ul>
-
-<h2>How to Use</h2>
-<ol>
-    <li>Clone this repository to your local machine.</li>
-    <li>Install all required dependencies by running <code>pip install -r requirements.txt</code>.</li>
-    <li>Run the application by executing <code>python app.py</code>.</li>
-    <li>Open a browser and visit <code>http://localhost:5000</code> to access the dashboard.</li>
-</ol>
-
-<h2>Contribution</h2>
-<p>We invite you to contribute to the development of this project by submitting pull requests or reporting encountered issues.</p>
-
-<h2>License</h2>
-<p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
 
 </body>
 </html>
